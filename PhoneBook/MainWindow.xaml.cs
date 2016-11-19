@@ -20,7 +20,7 @@ namespace PhoneBook
 {
     /// <summary>
     /// Phone book app - primary function is to store, lookup, update, and delete phone book records containing minimum LastName, FirstName,Phone.
-    /// To Do:
+    /// To Do: Boop
     /// Improve printing - currently only prints the displayed window. Must print grid results in a user friendly fashion
     /// Add UPDATE function
     /// Add DELETE function
